@@ -1,6 +1,6 @@
 Hi there! I'm Gabriel Miura
 
-What am I doing:
+What I am doing:
 - 🔭 Reacreating front-pages of streaming services with the best of my knowledge. (With the help of some tutorials on W3S and Youtube)
 - 🌱 Studying Advanced CSS and Javascript.
 
